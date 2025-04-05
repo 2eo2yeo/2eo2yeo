@@ -1,7 +1,7 @@
 
 
 <div align=center> 
-  공부 블로그 : https://2eo2yeo.github.io/
+  공부 블로그 : https://2eo2yeo.github.io/  <br/>
   포트 폴리오 : https://2eo2yeo.github.io/portfolio/
   <br/>
   <br/>
