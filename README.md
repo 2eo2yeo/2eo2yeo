@@ -44,12 +44,12 @@
   <br>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white">
 
-<br><br><br>
+<br><br>
 
 
   
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{2eo2yeo}?pet-id=1" width="1000" height="300"/>
+  <img src="https://render.gitanimals.org/lines/{2eo2yeo}?pet-id=1" width="1000" height="200"/>
 </a>
 
 </div>
