@@ -2,11 +2,9 @@
 
 <div align=center> 
   
-### [👉 포트폴리오 이동](https://2eo2yeo.github.io/portfolio/)
-  
-### [👉 공부블로그 이동](https://2eo2yeo.github.io/)
-
-### [👉 프로젝트 시연 영상 이동](https://www.youtube.com/@%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B80403/)
+### [🔗 포트폴리오 이동](https://2eo2yeo.github.io/portfolio/)
+### [🔗 공부블로그 이동](https://2eo2yeo.github.io/)
+### [🔗 프로젝트 시연 영상 이동](https://www.youtube.com/@%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B80403/)
   <br/>
   <br/>
   
