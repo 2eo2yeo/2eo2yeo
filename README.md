@@ -28,30 +28,33 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1&color=5F5F5F&background=90657800&center=true&vCenter=true&repeat=false&width=200&height=22&lines=Stack)](https://git.io/typing-svg)
 
 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
-
-<br><br>
 
 
-  
+<img src="https://img.shields.io/badge/html5-F3E6FF?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-E0CCFF?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-D1B3FF?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-BF99FF?style=for-the-badge&logo=typescript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/react-944DFF?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/redux-6600CC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-8533FF?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-731AFF?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-A366FF?style=for-the-badge&logo=mysql&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/github-5900B3?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-4D0099?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/fontawesome-400080?style=for-the-badge&logo=fontawesome&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Photoshop-330066?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
+
+
+<br><br>  
+
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{2eo2yeo}?pet-id=1" width="1000" height="200"/>
 </a>
+
+
+
 
 </div>
