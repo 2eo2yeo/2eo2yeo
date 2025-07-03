@@ -14,9 +14,13 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1&color=5F5F5F&background=90657800&center=true&vCenter=true&repeat=false&width=200&height=22&lines=Link)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1&color=5F5F5F&background=90657800&center=true&vCenter=true&repeat=false&width=200&height=25&lines=Link)](https://git.io/typing-svg)
 
-[![공부 블로그](https://img.shields.io/badge/🔗_2eo's_Study_Blog-8A2BE2?style=for-the-badge)](https://2eo2yeo.github.io/) [![포트폴리오](https://img.shields.io/badge/🔗_2eo's%20Portfolio-8A2BE2?style=for-the-badge)](https://2eo2yeo.github.io/portfolio/) [![시연영상](https://img.shields.io/badge/🔗_2eo's%20DEMO%20video-8A2BE2?style=for-the-badge)](https://youtube.com/channel/UCRhRqFiWNC6W0MO7EzXoXDA?si=OJYSzlYbGKy-jqqy)
+
+
+[![Study Blog](https://img.shields.io/badge/2eo-Study%20Blog-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/)
+[![Portfolio](https://img.shields.io/badge/2eo-Portfolio-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/portfolio/)
+[![Demo Video](https://img.shields.io/badge/2eo-DEMO%20video-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://youtube.com/channel/UCRhRqFiWNC6W0MO7EzXoXDA?si=OJYSzlYbGKy-jqqy)
 
 
 </div>
@@ -25,7 +29,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1&color=5F5F5F&background=90657800&center=true&vCenter=true&repeat=false&width=200&height=22&lines=Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1&color=5F5F5F&background=90657800&center=true&vCenter=true&repeat=false&width=200&height=25&lines=Stack)](https://git.io/typing-svg)
 
 
 
