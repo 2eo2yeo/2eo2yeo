@@ -19,7 +19,7 @@
 
 
 [![Study Blog](https://img.shields.io/badge/2eo-Study%20Blog-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/)
-[![Portfolio](https://img.shields.io/badge/2eo-Portfolio-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/2eo-Portfolio-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/2eo_portfolio/)
 [![Demo Video](https://img.shields.io/badge/2eo-DEMO%20video-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://youtube.com/channel/UCRhRqFiWNC6W0MO7EzXoXDA?si=OJYSzlYbGKy-jqqy)
 [![Discord](https://img.shields.io/badge/2eo-Discord-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://discordapp.com/users/541504792816648192/)
 
