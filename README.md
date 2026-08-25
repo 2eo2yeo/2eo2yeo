@@ -20,7 +20,7 @@
 
 [![GitHub Blog](https://img.shields.io/badge/2eo-Github%20Blog-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/)
 [![Velog](https://img.shields.io/badge/2eo-Velog-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/)
-[![Portfolio](https://img.shields.io/badge/2eo-Portfolio-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/2eo_portfolio/)
+[![Portfolio](https://img.shields.io/badge/2eo-Portfolio-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://2eo2yeo.github.io/2eo_portfolio_v2/)
 [![Demo Video](https://img.shields.io/badge/2eo-DEMO%20video-333333?style=for-the-badge&labelColor=333333&color=8A2BE2)](https://youtube.com/channel/UCRhRqFiWNC6W0MO7EzXoXDA?si=OJYSzlYbGKy-jqqy)
 
 </div>
